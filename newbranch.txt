@@ -1,2 +1,2 @@
 newbranch
-main-rebase
+newbranch rebase
